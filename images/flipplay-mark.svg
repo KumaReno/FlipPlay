@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">FlipPlay</title>
+  <rect width="64" height="64" rx="14" fill="#11100f"/>
+  <path d="M16 13h32v9H26v7h18v9H26v13H16z" fill="#d8ff35"/>
+  <path d="M39 13h9v11h-9zm0 16h9v22h-9z" fill="#ff5a36"/>
+</svg>

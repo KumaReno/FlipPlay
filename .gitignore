@@ -1,0 +1,14 @@
+# Dependencies
+/node_modules/
+/modul3-demo/vendor/
+/modul4-demo/vendor/
+
+# Local environment and secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Generated Laravel files
+/modul4-demo/public/build/
+/modul4-demo/storage/*.key
+/modul4-demo/.phpunit.cache
